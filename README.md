@@ -1,2 +1,2 @@
 # First-Project
-This is my first coding project which will most likely be a random selection of multiple user inputs to assist in making decisions.
+As the title implies this will be my first project, either a thing that will select randomly from different things a user inputs or some  sort of todo list
